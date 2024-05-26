@@ -1,12 +1,15 @@
 # ○ ZXEB的博客
 
 > ZXEB的博客（请按快捷键 Ctrl+F 来搜索内容）💕
+>
 > 建议使用无痕浏览的模式访问此网站，以便获得最新的文章
 <HR>
 
 ##### **1.测试文章**
 
-● <font color="#FF8C00">Redmi Turbo3：</font>[点此查看](https://union-click.jd.com/jdc?e=618%7Cpc%7C&p=JF8BAQ4JK1olXwMEVlldCk0WAV8IGlsUXAYAXVdeAEoUAl9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWA24JG1kcVAUKVV1cFxJSXzI4bCJBQ05XVDs9dDUUWTIJXR5jAFF6ElJROEonAG4KG1IUWQIHXG5tCEwnQgEIG1kUXwcBUW5cOEsRA2sJElgQVQEEUFhtD0seMylcRB5NDVlEAAEzVHsnM2w4HFscSQBwFQxJDjknM284GGsVXAYKVl9fC0gWB3MIHlkRXQIeVFhdDEoeAGoBElsQWzYAVV9ZAXsnMydLeyZHPEYBFBoabwtkWjJ6fC1uFAUFIjBfXhJpVwhQTAhVLWJSKxYdDg4nBl8)
+● <font color="#FF8C00">测试文章
+###该文章为测试文章不用管
+##test
 
 
 
